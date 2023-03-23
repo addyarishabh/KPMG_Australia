@@ -14,7 +14,7 @@ ii) Customer Addresses.
 
 iii) Transaction data in the past 3 months. 
 
-#### Task-1 (Data Quality Assessment):
+### Task-1 (Data Quality Assessment):
 
 -> Filter the data and remove all the blanks for every datasets.
 
@@ -24,7 +24,13 @@ iii) Transaction data in the past 3 months.
 
 -> For Customet Addresses dataset- convert states 'VIC' to 'Victoria' and 'NSW' to 'New South Wales'. 
 
+### Task-2 (Data Insights Evaluation)
 
+-> What are the trends in the underlying data?
+
+-> Which customer segment has the highest customer value?
+
+-> What do you propose should be Sprocket Central Pty Ltd's marketing and growth strategy?
 
 ### Task 3: 
 
