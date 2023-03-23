@@ -38,7 +38,21 @@ Report Presentation:
 
 ![Dashboard Presentation](https://user-images.githubusercontent.com/110813853/227095162-7c3608f2-594a-41ac-a953-aef11da07ac4.png)
 
+#### Interpretation:
 
+##### Descriptive Analysis:
+
+From the dashboard we can say:
+
+-> Maximum profit done by Female.
+
+-> Total number of transactions happened in last 3 months is- 19.98K
+
+-> In the month of October the maximum profit have been done. 
+
+-> Maximum profit came from the brand 'WeareA2B' which is near about 2.5M .
+
+-> Customers belongs to 'Manufacturing' and 'Financial Services' have made maximum sales for that maximum profit happened. 
 
 ### Tools Used:
 Excel
